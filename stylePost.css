@@ -1,0 +1,36 @@
+/* footer {
+    min-height: 100px;
+    background-color: #eaecee70;
+    color: #929eaa;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    font-size: 14px;
+    display: flex;
+} */
+
+#individual-post-title {
+    text-align: center;
+    font-size: 2em;
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+}
+
+#individual-post-date {
+    border-top: 1px solid #f1f4fb;
+    border-bottom: 1px solid #f1f4fb ;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 16px;
+    color: #adb5bd;
+}
+
+#individual-post-content {
+padding-top: 24px;
+padding-left: 16px;
+padding-right: 16px;
+color: #495057;
+line-height: 1.4;
+
+}
