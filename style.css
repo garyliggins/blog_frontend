@@ -8,13 +8,16 @@ body {
 
 header {
     min-height: 350px;
-    background-color: blue;
+
     color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     position: relative;
+    background-size: cover;
+    background-position: center;
+    
 
 }
 
@@ -166,4 +169,7 @@ footer {
     color: #004186;
     border-radius: 5px;
     padding:  8px;
+}
+a.post-link {
+    text-decoration: none;
 }
